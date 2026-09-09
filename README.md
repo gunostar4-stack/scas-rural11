@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Smart Crop Advisory System (SCAS)
 
 ## Leaf disease scanner
@@ -81,3 +82,6 @@ export default defineConfig([
 ])
 
 ```
+=======
+# scas-rural11
+>>>>>>> 98fae4fcb64e630810ad2873572e42c22d71c3e3
