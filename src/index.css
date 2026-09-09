@@ -1,0 +1,7 @@
+@import "tailwindcss";
+
+@layer base {
+  html { scroll-behavior: smooth; }
+  body { margin: 0; min-width: 320px; background: #fafaf9; }
+  button, input, select, textarea { font: inherit; }
+}
